@@ -1,0 +1,11 @@
+.header{
+    background-color: $jellyBean;
+    height: $height-header;
+    color: $white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    h1{
+        font-size: $size-title;
+    }
+}

@@ -1,12 +1,13 @@
-@import "../../node_modules/bootstrap/scss/bootstrap"
+@import "../../node_modules/bootstrap/scss/bootstrap";
 
 // abstract
-
+@import "abstract/variables";
 // verdors
 
 // base
-
+@import "base/typography";
 // layout
+@import "layout/navigation", "layout/header", "layout/section";
 
 // components
 

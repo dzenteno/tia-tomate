@@ -10746,5 +10746,37 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+nav {
+  background-color: #FFF;
+}
+nav img {
+  width: 15rem;
+}
+
+.header {
+  background-color: #E56353;
+  height: 600px;
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header h1, .header .h1 {
+  font-size: 70px;
+}
+
+.organicos {
+  background-color: #686963;
+  color: #FFF;
+}
+.organicos .organicos__parrafo {
+  width: 60%;
+  display: inline-block;
+  justify-content: center;
+}
 
 /*# sourceMappingURL=main.css.map */
