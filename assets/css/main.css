@@ -10773,10 +10773,59 @@ nav img {
   background-color: #686963;
   color: #FFF;
 }
-.organicos .organicos__parrafo {
+.organicos .organicos__paragraph {
   width: 60%;
   display: inline-block;
   justify-content: center;
+}
+
+.nosotros__title {
+  background-color: #E56353;
+  color: #FFF;
+}
+.nosotros__title h1, .nosotros__title .h1 {
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.nosotros__img .nosotros__tia-tomate {
+  width: 350px;
+}
+
+.nosotros {
+  color: #686963;
+}
+.nosotros .nosotros__paragraph {
+  width: 60%;
+  display: inline-block;
+  justify-content: center;
+}
+
+.contact {
+  background-color: #E56353;
+  color: #FFF;
+}
+
+.article {
+  clear: both;
+  color: #686963;
+}
+.article .article__paragraph {
+  width: 60%;
+  display: inline-block;
+  justify-content: center;
+}
+
+footer {
+  background-color: #686963;
+}
+footer img {
+  width: 200px;
+}
+
+.btn {
+  border: solid #686963 2px;
+  color: #686963;
 }
 
 /*# sourceMappingURL=main.css.map */

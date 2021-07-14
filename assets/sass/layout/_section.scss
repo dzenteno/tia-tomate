@@ -1,9 +1,38 @@
 .organicos {
     background-color: $graniteGray;
     color: $white;
-    .organicos__parrafo {
+    .organicos__paragraph {
         width: 60%;
         display: inline-block;
         justify-content: center;
     }
+}
+
+.nosotros__title {
+    background-color: $jellyBean;
+    color: $white;
+    h1 {
+        font-weight: bold;
+        font-size: $size-title;
+    }
+}
+
+.nosotros__img {
+    .nosotros__tia-tomate {
+        width: 350px;
+    }
+}
+
+.nosotros{
+    color: $graniteGray;
+    .nosotros__paragraph{
+        width: 60%;
+        display: inline-block;
+        justify-content: center;
+    }
+}
+
+.contact{
+    background-color: $jellyBean;
+    color: $white;
 }

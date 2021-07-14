@@ -1,0 +1,9 @@
+.article{
+    clear: both;
+    color: $graniteGray;
+    .article__paragraph{
+        width: 60%;
+        display: inline-block;
+        justify-content: center;
+    }
+}

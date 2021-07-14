@@ -7,10 +7,10 @@
 // base
 @import "base/typography";
 // layout
-@import "layout/navigation", "layout/header", "layout/section";
+@import "layout/navigation", "layout/header", "layout/section", "layout/article", "layout/footer";
 
 // components
-
+@import "component/buttons";
 // pages
 
 // themes
